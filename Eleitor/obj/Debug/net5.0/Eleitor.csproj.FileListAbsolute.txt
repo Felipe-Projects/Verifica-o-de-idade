@@ -1,0 +1,16 @@
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\bin\Debug\net5.0\Eleitor.exe
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\bin\Debug\net5.0\Eleitor.deps.json
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\bin\Debug\net5.0\Eleitor.runtimeconfig.json
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\bin\Debug\net5.0\Eleitor.runtimeconfig.dev.json
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\bin\Debug\net5.0\Eleitor.dll
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\bin\Debug\net5.0\ref\Eleitor.dll
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\bin\Debug\net5.0\Eleitor.pdb
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\Eleitor.csprojAssemblyReference.cache
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\Eleitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\Eleitor.AssemblyInfoInputs.cache
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\Eleitor.AssemblyInfo.cs
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\Eleitor.csproj.CoreCompileInputs.cache
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\Eleitor.dll
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\ref\Eleitor.dll
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\Eleitor.pdb
+C:\Users\arialves\Desktop\Atividades C#\Eleitor\obj\Debug\net5.0\Eleitor.genruntimeconfig.cache
